@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Rakaal
 
-I'm a Front-End Developer specializing in Next.js and Tailwind CSS.
-Currently focusing on building beautiful and performant web apps.
+Full-Stack Developer with over 6+ years of experience building end-to-end web applications. Experienced in developing RESTful APIs, responsive user interfaces, and optimizing application performance for production-scale environments. Comfortable working both collaboratively within teams and remotely, adaptable to new technologies, and focused on clean architecture, scalable codebases, and delivering high-quality user experiences.
 
 ## 🛠 Tech Stack
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, Prisma
-- DB: Mysql, PostgreSQL
+- Frontend: React, Vue, Next.js, Nuxt.js
+- Backend: Node.js (Express), Laravel
+- Database: MySQL, PostgreSQL
+- Tools & Workflow: Git, Docker, Jira, CI/CD 
 
 <!--
 ## 🚀 Featured Projects
