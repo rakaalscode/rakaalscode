@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm RYKE
 
-Full-Stack Developer with over 6+ years of experience building end-to-end web applications. Experienced in developing RESTful APIs, responsive user interfaces, and optimizing application performance for production-scale environments. Comfortable working both collaboratively within teams and remotely, adaptable to new technologies, and focused on clean architecture, scalable codebases, and delivering high-quality user experiences.
+Full-Stack Developer with over 5+ years of experience building end-to-end web applications. Experienced in developing RESTful APIs, responsive user interfaces, and optimizing application performance for production-scale environments. Comfortable working both collaboratively within teams and remotely, adaptable to new technologies, and focused on clean architecture, scalable codebases, and delivering high-quality user experiences.
 
 ## 🛠 Tech Stack
 - Frontend: React, Vue, Next.js, Nuxt.js
