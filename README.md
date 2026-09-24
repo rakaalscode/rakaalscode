@@ -1,37 +1,25 @@
-## 👋 Hi, I'm Rakaal
+# Hi, I'm Rakaal 👋
+### Software Engineer (Web & Systems)
 
-Full-Stack Developer with over 5+ years of experience building end-to-end web applications. Experienced in developing RESTful APIs, responsive user interfaces, and optimizing application performance for production-scale environments. Comfortable working both collaboratively within teams and remotely, adaptable to new technologies, and focused on clean architecture, scalable codebases, and delivering high-quality user experiences.
+I build web applications with a focus on system resilience, performance, and end-to-end delivery—taking software from architectural design to production deployment.
 
-## 🛠 Tech Stack
-- Frontend: React, Vue, Next.js, Nuxt.js
-- Backend: Node.js (Express), Laravel
-- Database: MySQL, PostgreSQL
-- Tools & Workflow: Git, Docker, Jira, CI/CD 
+> 🔒 *Note: Most of my commercial work and client projects live in private repositories under NDA. Below is an overview of my core engineering focus and system design explorations.*
 
-<!--
-## 🚀 Featured Projects
-### [Project Name](link-ke-repo)
-Description singkat – tech stack – hasilnya apa  
-👉 [Live Demo](link-demo) | [GitHub](link-repo)
+---
 
-### [Project Name 2](...)
-...
+### 🛠️ Core Engineering Focus
+- **System Architecture & Performance:** Designing clean boundaries, data flow optimization, caching strategies, and connection pooling.
+- **End-to-End Web Systems:** Building modern, high-throughput backend services and responsive frontends with high autonomy.
+- **Production Delivery:** Environment setup, containerization, and managing self-contained deployments.
 
-## 📫 Reach Me
-- LinkedIn: [link]
-- Website: [link]
--->
-<!--
-**rakaalscode/rakaalscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔬 What I'm Currently Experimenting With
+- Benchmarking database behavior, connection starvation, and query optimizations under simulated load.
+- Exploring multi-tier caching patterns and atomic concurrency controls in modern web runtimes.
+- System design patterns for high-throughput, low-latency web platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect With 
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rajaka/)
